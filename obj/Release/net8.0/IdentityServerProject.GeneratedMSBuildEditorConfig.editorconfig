@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IdentityServerProject
+build_property.RootNamespace = IdentityServerProject
+build_property.ProjectDir = C:\Users\humey\source\repos\IdentityServerProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\humey\source\repos\IdentityServerProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEFjY291bnRcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/DownloadExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXERvd25sb2FkRXhjZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/ListFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXExpc3RGaWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/PreviewData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXFByZXZpZXdEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/PreviewErrors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXFByZXZpZXdFcnJvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/ShowErrors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXFNob3dFcnJvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/UploadExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXFVwbG9hZEV4Y2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Excel/ViewExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEV4Y2VsXFZpZXdFeGNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Home/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEhvbWVcQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Home/ManagerDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEhvbWVcTWFuYWdlckRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Home/UserDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXEhvbWVcVXNlckRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Message/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXE1lc3NhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/DownloadExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcRG93bmxvYWRFeGNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/ListFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcTGlzdEZpbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/PreviewData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcUHJldmlld0RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/PreviewErrors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcUHJldmlld0Vycm9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/ShowErrors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcU2hvd0Vycm9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/UploadExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcVXBsb2FkRXhjZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Excel/ViewExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcVmlld0V4Y2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Home/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Home/ManagerDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Home/UserDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Message/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/humey/source/repos/IdentityServerProject/IdentityServerProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SWRlbnRpdHlTZXJ2ZXJQcm9qZWN0XFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-95g5yoahz3
+
+[C:/Users/humey/source/repos/IdentityServerProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dfamtvinhz
