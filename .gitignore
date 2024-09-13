@@ -4,11 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+#*.rsuser
+#*.suo
+#*.user
+#*.userosscache
+#*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -17,6 +17,7 @@
 mono_crash.*
 
 # Build results
+# Derleme çýktýlarý ve geçici dosyalar
 #[Dd]ebug/
 #[Dd]ebugPublic/
 #[Rr]elease/
@@ -34,7 +35,7 @@ mono_crash.*
 #[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-.vs/
+#.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 

@@ -1,0 +1,44 @@
+﻿@model List<MyDataModel>
+
+<h2>Hatalı Veriler</h2>
+
+<ul>
+    @if (ViewBag.Errors != null)
+    {
+        foreach (var error in ViewBag.Errors)
+        {
+            <li>@error</li>
+        }
+    }
+    else
+    {
+        <p>Hata yok.</p>
+    }
+</ul>
+
+<h3>Veriler</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Müşteri</th>
+            <th>Başlangıç Tarihi</th>
+            <th>Bitiş Tarihi</th>
+            <th>Dosya Adı</th>
+            <th>Yükleme Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerName</td>
+                <td>@(item.BaslangicTarihi == DateTime.MinValue ? "" : item.BaslangicTarihi.ToString("d MMMM yyyy"))</td>
+                <td>@(item.BitisTarihi == DateTime.MinValue ? "" : item.BitisTarihi.ToString("d MMMM yyyy"))</td>
+                <td>@item.DosyaAdi</td>
+                <td>@(item.YüklemeTarihi == DateTime.MinValue ? "" : item.YüklemeTarihi.ToString("d MMMM yyyy"))</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("UploadExcel")" class="btn btn-primary">Dosyayı Yeniden Yükle</a>

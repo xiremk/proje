@@ -1,0 +1,9 @@
+﻿@model List<string>
+
+<h2>Hatalar</h2>
+<ul>
+    @foreach (var error in Model)
+    {
+        <li>@error</li>
+    }
+</ul>
