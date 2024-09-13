@@ -1,0 +1,45 @@
+﻿@model List<MyDataModel>
+<form asp-action="ConfirmUpload" method="post">
+
+<h2>Yüklenecek Veriler</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Müşteri</th>
+            <th>Başlangıç Tarihi</th>
+            <th>Bitiş Tarihi</th>
+            <th>Dosya Adı</th>
+            <th>Yükleme Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <span>@Model[i].CustomerName</span>
+                        <input type="hidden" name="dataList[@i].CustomerName" value="@Model[i].CustomerName" />
+                    </td>
+                    <td>
+                        <span>@Model[i].BaslangicTarihi.ToString("d MMMM yyyy")</span>
+                        <input type="hidden" name="dataList[@i].BaslangicTarihi" value="@Model[i].BaslangicTarihi.ToString("yyyy-MM-dd")" />
+                    </td>
+                    <td>
+                        <span>@Model[i].BitisTarihi.ToString("d MMMM yyyy")</span>
+                        <input type="hidden" name="dataList[@i].BitisTarihi" value="@Model[i].BitisTarihi.ToString("yyyy-MM-dd")" />
+                    </td>
+                    <td>
+                        <span>@Model[i].DosyaAdi</span>
+                        <input type="hidden" name="dataList[@i].DosyaAdi" value="@Model[i].DosyaAdi" />
+                    </td>
+                    <td>
+                        <span>@Model[i].YüklemeTarihi.ToString("d MMMM yyyy")</span>
+                        <input type="hidden" name="dataList[@i].YüklemeTarihi" value="@Model[i].YüklemeTarihi.ToString("yyyy-MM-dd")" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="submit">Onayla ve Kaydet</button>
+</form>

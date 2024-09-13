@@ -1,0 +1,29 @@
+﻿@model List<MyDataModel>
+
+<h2>Excel Dosyası İçeriği</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Müşteri</th>
+            <th>Başlangıç Tarihi</th>
+            <th>Bitiş Tarihi</th>
+            <th>Dosya Adı</th>
+            <th>Yükleme Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var data in Model)
+        {
+            <tr>
+                <td>@data.CustomerName</td>
+                <td>@data.BaslangicTarihi.ToString("d MMMM yyyy")</td>
+                <td>@data.BitisTarihi.ToString("d MMMM yyyy")</td>
+                <td>@data.DosyaAdi</td>
+                <td>@data.YüklemeTarihi.ToString("d MMMM yyyy")</td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>

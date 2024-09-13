@@ -1,0 +1,20 @@
+﻿@model UserViewModel
+
+<div class="container">
+    <h1>Kullanıcı Paneli</h1>
+    <p>Hoş geldiniz, @Model.FirstName @Model.LastName!</p>
+    <p>Bu panelde kişisel bilgilerinizi görüntüleyebilir ve güncelleyebilirsiniz.</p>
+
+    <h2>Profilim</h2>
+   
+    <!-- Diğer kullanıcı bilgileri -->
+
+    <h2>Ayarlar</h2>
+    <!-- Ayarlar içeriği -->
+    <p>
+        <a asp-controller="Excel" asp-action="UploadExcel" class="btn btn-primary">Dosya Yükle</a>
+    </p>
+    <p>
+        <a asp-controller="Excel" asp-action="ListFiles" class="btn btn-primary">Yüklü Dosyaları Listele</a>
+    </p>
+</div>

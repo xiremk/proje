@@ -1,0 +1,26 @@
+﻿@model List<string>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Message Index</title>
+</head>
+<body>
+    <div>
+        <h2>Messages</h2>
+        <ul>
+            @foreach (var message in Model)
+            {
+                <li>@message</li>
+            }
+        </ul>
+    </div>
+    <div>
+        <form asp-action="SendMessage" method="post">
+            <input type="text" name="message" />
+            <input type="submit" value="Send Message" />
+        </form>
+    </div>
+</body>
+</html>
