@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|c:\\users\\humey\\source\\repos\\identityserverproject\\identityserverproject\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|solutionrelative:identityserverproject\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Controllers\\ExcelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServerProject\\Controllers\\ExcelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|c:\\users\\humey\\source\\repos\\identityserverproject\\identityserverproject\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|solutionrelative:identityserverproject\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Views\\Excel\\PreviewData.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServerProject\\Views\\Excel\\PreviewData.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|c:\\users\\humey\\source\\repos\\identityserverproject\\identityserverproject\\views\\home\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|solutionrelative:identityserverproject\\views\\home\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Views\\Excel\\ViewExcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServerProject\\Views\\Excel\\ViewExcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|c:\\users\\humey\\source\\repos\\identityserverproject\\identityserverproject\\views\\excel\\previewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|solutionrelative:identityserverproject\\views\\excel\\previewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Models\\UploadExcelViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServerProject\\Models\\UploadExcelViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|c:\\users\\humey\\source\\repos\\identityserverproject\\identityserverproject\\views\\excel\\viewexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|solutionrelative:identityserverproject\\views\\excel\\viewexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Views\\Home\\UserDashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServerProject\\Views\\Home\\UserDashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|c:\\users\\humey\\source\\repos\\identityserverproject\\identityserverproject\\models\\uploadexcelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4467918E-0FC3-4BDE-B458-909187801A82}|IdentityServerProject\\IdentityServerProject.csproj|solutionrelative:identityserverproject\\models\\uploadexcelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Services\\ExcelService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServerProject\\Services\\ExcelService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -48,18 +52,12 @@
               "RelativeDocumentMoniker": "IdentityServerProject\\Controllers\\ExcelController.cs",
               "ToolTip": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Controllers\\ExcelController.cs",
               "RelativeToolTip": "IdentityServerProject\\Controllers\\ExcelController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:17:03.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-09-09T12:17:03.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PreviewData.cshtml",
               "DocumentMoniker": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Views\\Excel\\PreviewData.cshtml",
               "RelativeDocumentMoniker": "IdentityServerProject\\Views\\Excel\\PreviewData.cshtml",
@@ -71,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ViewExcel.cshtml",
               "DocumentMoniker": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Views\\Excel\\ViewExcel.cshtml",
               "RelativeDocumentMoniker": "IdentityServerProject\\Views\\Excel\\ViewExcel.cshtml",
@@ -83,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "UploadExcelViewModel.cs",
               "DocumentMoniker": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Models\\UploadExcelViewModel.cs",
               "RelativeDocumentMoniker": "IdentityServerProject\\Models\\UploadExcelViewModel.cs",
@@ -95,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserDashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Views\\Home\\UserDashboard.cshtml",
               "RelativeDocumentMoniker": "IdentityServerProject\\Views\\Home\\UserDashboard.cshtml",
@@ -107,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ExcelService.cs",
               "DocumentMoniker": "C:\\Users\\humey\\source\\repos\\IdentityServerProject\\IdentityServerProject\\Services\\ExcelService.cs",
               "RelativeDocumentMoniker": "IdentityServerProject\\Services\\ExcelService.cs",
@@ -116,10 +114,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T05:52:30.772Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
